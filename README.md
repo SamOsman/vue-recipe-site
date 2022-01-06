@@ -1,5 +1,7 @@
 # recipe-site
 
+This project is built with Vue3 and utilizes tailwind for css and Axios for API calls
+
 ## Project setup
 ```
 npm install
